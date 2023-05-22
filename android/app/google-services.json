@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "615960486067",
+    "project_id": "sayakat-3ffc1",
+    "storage_bucket": "sayakat-3ffc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615960486067:android:1a87ea05425b41932890c6",
+        "android_client_info": {
+          "package_name": "com.example.sayakat_proj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615960486067-pk8vlu0r1g3bgeep3b5c4u2m99p4v254.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0Df6MmOR2Civ1kg-xTv9IboVq1DtHXvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615960486067-pk8vlu0r1g3bgeep3b5c4u2m99p4v254.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
